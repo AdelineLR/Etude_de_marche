@@ -1,6 +1,6 @@
-# Réalisation d'une étude de marché
+# Réalisation d'une étude de marché pour l'industrie agroalimentaire
 
- _Projet en cours dans le cadre de la formation Data Analyst d'OpenClassrooms_
+ _Projet en cours dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°9 - Démarré en Avril 2023)_
  
 ## Compétences acquises
 * Effectuer un clustering simple (k-means et classification ascendante hiérarchique)
