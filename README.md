@@ -1,7 +1,5 @@
 # Réalisation d'une étude de marché pour l'industrie agroalimentaire
-
- _Projet en cours dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°9 - Démarré en Avril 2023)_
- 
+  
 ## Compétences acquises
 * Effectuer un clustering simple (k-means et classification ascendante hiérarchique)
 * Explorer des données pour synthétiser des variables (Analyse en Composantes Principales)
@@ -24,5 +22,5 @@ La poule qui chante, une entreprise française d’agroalimentaire, souhaite se 
 * LeRay_Adeline_1_preparation_nettoyage_analyse_exploratoire_042023.inbpy
 * LeRay_Adeline_2_clustering_visualisations_042023.inbpy
 * LeRay_Adeline_3_presentations_042023.pdf
-* LeRay_Adeline_4_ACP_clustering_essais_042023.inbpy
+* LeRay_Adeline_2bis_ACP_Clustering_R_042023.html _(notebook R en cours de réalisation)_
 
